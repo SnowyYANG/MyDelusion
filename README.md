@@ -25,4 +25,5 @@
 （注意：有极端致郁剧情。）
 
 ## 友情链接
-* 前奏曲《少女孪想曲》：[https://snowyyang.itch.io/love-dual-symphony] 
+* 前奏曲《少女孪想曲》：[https://snowyyang.itch.io/love-dual-symphony]
+* 世界观《心摹世界》：[https://github.com/SnowyYANG/sim.world]
