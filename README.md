@@ -26,6 +26,10 @@
 
 （推荐阅读年龄：17.999+）
 
+## 少女日常妄想
+
+些许理想，些许言情，生离死别，鬼马怪谈，双相情感障碍患者随笔。
+
 ## 友情链接
 * 前奏曲《少女孪想曲》：[https://snowyyang.itch.io/love-dual-symphony]
 * 世界观《心摹世界》：[https://github.com/SnowyYANG/sim.world]
