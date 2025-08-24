@@ -30,6 +30,8 @@
 
 些许理想，些许言情，生离死别，鬼马怪谈，当代双相情感障碍患者随笔。
 
+（推荐阅读年龄：16+）
+
 ## 友情链接
 * 前奏曲《少女孪想曲》：[https://snowyyang.itch.io/love-dual-symphony]
 * 世界观《心摹世界》：[https://github.com/SnowyYANG/sim.world]
